@@ -1,0 +1,954 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: trex\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-28 20:49+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: functions.php:44
+msgid "small"
+msgstr ""
+
+#: functions.php:45
+msgid "S"
+msgstr ""
+
+#: functions.php:50
+msgid "regular"
+msgstr ""
+
+#: functions.php:51
+msgid "M"
+msgstr ""
+
+#: functions.php:56
+msgid "large"
+msgstr ""
+
+#: functions.php:57
+msgid "L"
+msgstr ""
+
+#: functions.php:62
+msgid "larger"
+msgstr ""
+
+#: functions.php:63
+msgid "XL"
+msgstr ""
+
+#: functions.php:83
+msgid "Primary menu"
+msgstr ""
+
+#: functions.php:84
+msgid "Header Top menu"
+msgstr ""
+
+#: functions.php:85
+msgid "Header Social menu"
+msgstr ""
+
+#: functions.php:86
+msgid "Footer Social menu"
+msgstr ""
+
+#. If there are characters in your language that are not
+#. supported by Source Sans Pro translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:158
+msgctxt "Source Sans Pro: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:197
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:198
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:315 content.php:49
+msgid "Read More"
+msgstr ""
+
+#. 1: date
+#: functions.php:412
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: functions.php:416
+msgid " Edit"
+msgstr ""
+
+#: functions.php:423
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: functions.php:427
+msgid "Reply"
+msgstr ""
+
+#: functions.php:438
+msgid "Pingback:"
+msgstr ""
+
+#: functions.php:454
+msgid "Blog - Sidebar"
+msgstr ""
+
+#: functions.php:456
+msgid ""
+"Widgets appear in a right-aligned sidebar on the default blog and on single "
+"posts."
+msgstr ""
+
+#: functions.php:464
+msgid "Front Page - FullWidth Top"
+msgstr ""
+
+#: functions.php:466
+msgid ""
+"Widgets appear in a single-column widget area on the top of the Front Page."
+msgstr ""
+
+#: functions.php:474
+msgid "Front Page - Content 1"
+msgstr ""
+
+#: functions.php:476
+msgid ""
+"Widgets appear left of Sidebar 1 and below the Full Width Top widget area."
+msgstr ""
+
+#: functions.php:484
+msgid "Front Page - Sidebar 1"
+msgstr ""
+
+#: functions.php:486
+msgid ""
+"Widgets appear in a right-aligned sidebar area next to the Content 1 widget "
+"area."
+msgstr ""
+
+#: functions.php:494
+msgid "Front Page - Full Width Center"
+msgstr ""
+
+#: functions.php:496
+msgid ""
+"Widgets will appear in a single-column widget area below the Content 1 and "
+"Sidebar 1 widget areas."
+msgstr ""
+
+#: functions.php:504
+msgid "Front Page - Sidebar 2"
+msgstr ""
+
+#: functions.php:506
+msgid ""
+"Widgets appear in a left-aligned sidebar area next to the Content 2 widget "
+"area."
+msgstr ""
+
+#: functions.php:514
+msgid "Front Page - Content 2"
+msgstr ""
+
+#: functions.php:516
+msgid ""
+"Widgets appear right to Sidebar 2 and below the Full Width Center widget "
+"area."
+msgstr ""
+
+#: functions.php:524
+msgid "Front Page - Full Width Bottom"
+msgstr ""
+
+#: functions.php:526
+msgid ""
+"Widgets will appear in a single-column widget area at the bottom of your "
+"Front Page above the footer."
+msgstr ""
+
+#: functions.php:534
+msgid "Footer - 1"
+msgstr ""
+
+#: functions.php:536
+msgid "Widgets will appear in the 1. widget area of the 5-column footer."
+msgstr ""
+
+#: functions.php:544
+msgid "Footer - 2"
+msgstr ""
+
+#: functions.php:546
+msgid "Widgets will appear in the 2. widget area of the 5-column footer."
+msgstr ""
+
+#: functions.php:554
+msgid "Footer - 3"
+msgstr ""
+
+#: functions.php:556
+msgid "Widgets will appear in the 3. widget area of the 5-column footer."
+msgstr ""
+
+#: functions.php:564
+msgid "Footer - 4"
+msgstr ""
+
+#: functions.php:566
+msgid "Widgets will appear in the 4. widget area of the 5-column footer."
+msgstr ""
+
+#: functions.php:574
+msgid "Footer - 5"
+msgstr ""
+
+#: functions.php:576
+msgid "Widgets will appear in the 5. widget area of the 5-column footer."
+msgstr ""
+
+#: functions.php:584
+msgid "Blog Subscribe Widget Area"
+msgstr ""
+
+#: functions.php:586
+msgid ""
+"Widget area for the Jetpack Blog Subscriptions widget only. Subscribe widget "
+"will appear with in a lightbox. (The Subscribe Now text can be customized in "
+"the Customizer under Theme Options.)"
+msgstr ""
+
+#: functions.php:610
+msgid "<span>Previous Posts</span>"
+msgstr ""
+
+#: functions.php:611
+msgid "<span>Next Posts</span>"
+msgstr ""
+
+#: functions.php:636
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr ""
+
+#: functions.php:637
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr ""
+
+#: functions.php:733 functions.php:739 header.php:52 header.php:70
+#: header-top-nav.php:46
+msgid "View cart"
+msgstr ""
+
+#: functions.php:733 functions.php:739 header.php:70 header-top-nav.php:46
+#, php-format
+msgid "Cart (%d)"
+msgstr ""
+
+#: content-single.php:21 content.php:22 inc/widgets.php:183 inc/widgets.php:374
+#, php-format
+msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr ""
+
+#: content-single.php:23 content.php:24 inc/widgets.php:185 inc/widgets.php:376
+#, php-format
+msgid "All posts by %s"
+msgstr ""
+
+#: content-single.php:29 content.php:30 image.php:29
+msgid "Leave a comment"
+msgstr ""
+
+#: content-single.php:29 content.php:30 image.php:29
+msgid "comment 1"
+msgstr ""
+
+#: content-single.php:29 content.php:30 image.php:29
+msgid "comments %"
+msgstr ""
+
+#: content-single.php:32 content.php:33 image.php:32 inc/widgets.php:196
+#: inc/widgets.php:387
+msgid "Edit"
+msgstr ""
+
+#: content-single.php:47 content-page.php:19 content.php:52
+msgid "Pages:"
+msgstr ""
+
+#: content-single.php:55 content.php:61
+msgid "Filed under "
+msgstr ""
+
+#: content-single.php:59 content.php:65
+msgid "Tagged "
+msgstr ""
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+
+#: content-none.php:13 search.php:33
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:24 search.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: comments.php:25
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:38
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: content-page.php:25
+msgid "Edit page"
+msgstr ""
+
+#: content.php:39
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: header.php:50
+msgid "Open"
+msgstr ""
+
+#: header.php:52
+#, php-format
+msgid "(%d)"
+msgstr ""
+
+#: header.php:54 header.php:78 footer.php:54
+msgid "Close"
+msgstr ""
+
+#: footer.php:33
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:33
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:33
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:34
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr ""
+
+#: footer.php:44
+msgid "Subscribe Now"
+msgstr ""
+
+#: footer.php:52
+msgid "No Thanks"
+msgstr ""
+
+#: footer.php:59
+msgid "Top"
+msgstr ""
+
+#: author-bio.php:19
+msgid "Author"
+msgstr ""
+
+#: author.php:25
+msgid "All posts by "
+msgstr ""
+
+#: header-top-nav.php:41
+msgid "Account"
+msgstr ""
+
+#: header-top-nav.php:44
+msgid "Login / Register"
+msgstr ""
+
+#: image.php:59
+msgid "Next Image"
+msgstr ""
+
+#: image.php:60
+msgid "Previous Image"
+msgstr ""
+
+#: searchform.php:12
+msgid "Search"
+msgstr ""
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr ""
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr ""
+
+#: inc/widgets.php:18
+msgid "trex: Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:20
+msgid ""
+"Show a number of recent posts that can be filtered by categories on the trex "
+"Front page."
+msgstr ""
+
+#: inc/widgets.php:193 inc/widgets.php:384
+msgid "Comments 0"
+msgstr ""
+
+#: inc/widgets.php:193 inc/widgets.php:384
+msgid "Comment 1"
+msgstr ""
+
+#: inc/widgets.php:193 inc/widgets.php:384
+msgid "Comments %"
+msgstr ""
+
+#: inc/widgets.php:247 inc/widgets.php:426 inc/widgets.php:534
+#: inc/widgets.php:646 inc/widgets.php:756
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets.php:250
+msgid "Post Layout:"
+msgstr ""
+
+#: inc/widgets.php:252
+msgid "1-column text overlay"
+msgstr ""
+
+#: inc/widgets.php:253
+msgid "1-column text right"
+msgstr ""
+
+#: inc/widgets.php:254
+msgid "2-columns"
+msgstr ""
+
+#: inc/widgets.php:255
+msgid "2-columns text right"
+msgstr ""
+
+#: inc/widgets.php:256
+msgid "3-columns"
+msgstr ""
+
+#: inc/widgets.php:257
+msgid "3-columns text right"
+msgstr ""
+
+#: inc/widgets.php:258
+msgid "4-columns"
+msgstr ""
+
+#: inc/widgets.php:259
+msgid "4-columns text right"
+msgstr ""
+
+#: inc/widgets.php:263
+msgid "Thumbnail Format:"
+msgstr ""
+
+#: inc/widgets.php:265
+msgid "Landscape"
+msgstr ""
+
+#: inc/widgets.php:266
+msgid "Portrait"
+msgstr ""
+
+#: inc/widgets.php:267
+msgid "Square"
+msgstr ""
+
+#: inc/widgets.php:268
+msgid "default (no cropping)"
+msgstr ""
+
+#: inc/widgets.php:272
+msgid "Number of posts:"
+msgstr ""
+
+#: inc/widgets.php:275 inc/widgets.php:436
+msgid ""
+"Show only posts with the following category slug (separate multiple category "
+"slugs by comma)"
+msgstr ""
+
+#: inc/widgets.php:278
+msgid "Order posts by:"
+msgstr ""
+
+#: inc/widgets.php:280 inc/widgets.php:431
+msgid "publish date (newest first)"
+msgstr ""
+
+#: inc/widgets.php:281 inc/widgets.php:432
+msgid "random"
+msgstr ""
+
+#: inc/widgets.php:286
+msgid "Hide excerpt text"
+msgstr ""
+
+#: inc/widgets.php:290
+msgid "Hide categories"
+msgstr ""
+
+#: inc/widgets.php:294 inc/widgets.php:457
+msgid "Hide publish date"
+msgstr ""
+
+#: inc/widgets.php:298 inc/widgets.php:461
+msgid "Hide post author"
+msgstr ""
+
+#: inc/widgets.php:302 inc/widgets.php:465
+msgid "Hide number of comments"
+msgstr ""
+
+#: inc/widgets.php:319
+msgid "trex: Numbered Recent Posts"
+msgstr ""
+
+#: inc/widgets.php:321
+msgid ""
+"Show a number of numbered recent posts (without thumbnails and excerpt text) "
+"that can be filtered by categories."
+msgstr ""
+
+#: inc/widgets.php:429
+msgid "Order by:"
+msgstr ""
+
+#: inc/widgets.php:439
+msgid "Number of Posts:"
+msgstr ""
+
+#: inc/widgets.php:441 inc/widgets.php:761
+msgid "1"
+msgstr ""
+
+#: inc/widgets.php:442 inc/widgets.php:762
+msgid "2"
+msgstr ""
+
+#: inc/widgets.php:443 inc/widgets.php:763
+msgid "3"
+msgstr ""
+
+#: inc/widgets.php:444 inc/widgets.php:764
+msgid "4"
+msgstr ""
+
+#: inc/widgets.php:445 inc/widgets.php:765
+msgid "5"
+msgstr ""
+
+#: inc/widgets.php:446 inc/widgets.php:766
+msgid "6"
+msgstr ""
+
+#: inc/widgets.php:447 inc/widgets.php:767
+msgid "7"
+msgstr ""
+
+#: inc/widgets.php:448 inc/widgets.php:768
+msgid "8"
+msgstr ""
+
+#: inc/widgets.php:449 inc/widgets.php:769
+msgid "9"
+msgstr ""
+
+#: inc/widgets.php:450 inc/widgets.php:770
+msgid "10"
+msgstr ""
+
+#: inc/widgets.php:451
+msgid "11"
+msgstr ""
+
+#: inc/widgets.php:452
+msgid "12"
+msgstr ""
+
+#: inc/widgets.php:482
+msgid "trex: Quote"
+msgstr ""
+
+#: inc/widgets.php:484
+msgid "Show a big quote or text slogan."
+msgstr ""
+
+#: inc/widgets.php:539
+msgid "Quote Text:"
+msgstr ""
+
+#: inc/widgets.php:544
+msgid "Quote Author (optional):"
+msgstr ""
+
+#: inc/widgets.php:562
+msgid "trex: Authors"
+msgstr ""
+
+#: inc/widgets.php:564
+msgid "A list of blog authors with gravatars."
+msgstr ""
+
+#: inc/widgets.php:613
+msgid "All Posts by"
+msgstr ""
+
+#: inc/widgets.php:650
+msgid "Number of authors to show:"
+msgstr ""
+
+#: inc/widgets.php:653
+msgid "Gravatar image format:"
+msgstr ""
+
+#: inc/widgets.php:655
+msgid "square"
+msgstr ""
+
+#: inc/widgets.php:656
+msgid "circle"
+msgstr ""
+
+#: inc/widgets.php:674
+msgid "trex: Post Slider"
+msgstr ""
+
+#: inc/widgets.php:676
+msgid "Show (up to 10) posts in a featured slider."
+msgstr ""
+
+#: inc/widgets.php:759
+msgid "Number of Posts (max 10):"
+msgstr ""
+
+#: inc/widgets.php:774
+msgid ""
+"Show only posts with the following tag (separate multiple tags by comma)"
+msgstr ""
+
+#: inc/customizer.php:16
+msgid "Site Title Color"
+msgstr ""
+
+#: inc/customizer.php:18
+msgid "Logo"
+msgstr ""
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer.php:44
+msgid "Link Color"
+msgstr ""
+
+#: inc/customizer.php:57
+msgid "Header Background Color"
+msgstr ""
+
+#: inc/customizer.php:70
+msgid "Footer Background Color"
+msgstr ""
+
+#: inc/customizer.php:83
+msgid "Author Widget Background Color"
+msgstr ""
+
+#: inc/customizer.php:96
+msgid "Quote Widget Background Color"
+msgstr ""
+
+#: inc/customizer.php:109
+msgid "Numbered Recent Posts Widget Background Color"
+msgstr ""
+
+#: inc/customizer.php:121
+msgid "Fixed-position main menu"
+msgstr ""
+
+#: inc/customizer.php:122
+msgid "(visible on wider screens only)"
+msgstr ""
+
+#: inc/customizer.php:134
+msgid "Show header search form"
+msgstr ""
+
+#: inc/customizer.php:146
+msgid "Show shop elements in header"
+msgstr ""
+
+#: inc/customizer.php:147
+msgid "(use only, if WooCommerce plugin is active)"
+msgstr ""
+
+#: inc/customizer.php:159
+msgid "Hide theme border lines"
+msgstr ""
+
+#: inc/customizer.php:160
+msgid "Hide all light grey border lines of the theme design."
+msgstr ""
+
+#: inc/customizer.php:172
+msgid "Hide Featured Image on single posts"
+msgstr ""
+
+#: inc/customizer.php:184
+msgid "Automatic archive excerpts"
+msgstr ""
+
+#: inc/customizer.php:185
+msgid "(Show automatic excerpts on archives and search results.)"
+msgstr ""
+
+#: inc/customizer.php:197
+msgid "Automatic blog excerpts"
+msgstr ""
+
+#: inc/customizer.php:198
+msgid "(Show automatic excerpts on default blog.)"
+msgstr ""
+
+#: inc/customizer.php:210
+msgid "Read More links on Front page"
+msgstr ""
+
+#: inc/customizer.php:211
+msgid "(Show \"Read More\" links on Front page.)"
+msgstr ""
+
+#: inc/customizer.php:223
+msgid "Use Custom Jetpack share buttons"
+msgstr ""
+
+#: inc/customizer.php:224
+msgid ""
+"(Activate to use custom trex share buttons in the Jetpack sharing feature "
+"(\"Icons only\" has to be selected)."
+msgstr ""
+
+#: inc/customizer.php:236
+msgid "Small logo image"
+msgstr ""
+
+#: inc/customizer.php:237
+msgid ""
+"Show a small logo image in the main nav. The image height must be 34 pixels "
+"and the image width not bigger than 100px."
+msgstr ""
+
+#: inc/customizer.php:249
+msgid "Footer credit text"
+msgstr ""
+
+#: inc/customizer.php:250
+msgid "Customize the footer credit text. (HTML is allowed)"
+msgstr ""
+
+#: inc/customizer.php:262
+msgid "Lightbox button text"
+msgstr ""
+
+#: inc/customizer.php:263
+msgid "Customize the lightbox button text (default text is \"Subscribe Now\")."
+msgstr ""
+
+#: inc/customizer.php:275
+msgid "Lightbox close text"
+msgstr ""
+
+#: inc/customizer.php:276
+msgid ""
+"Customize the lightbox close button text (default text is \"No Thanks\")."
+msgstr ""
+
+#: inc/demo-installer.php:20
+msgid ""
+"Make sure you have the WooCommerce plugin installed, before importing this "
+"demo!"
+msgstr ""
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr ""
+
+#. Name of the template
+msgid "Checkout Page"
+msgstr ""
+
+#. Name of the template
+msgid "Account Page"
+msgstr ""
+
+#. Name of the template
+msgid "Cart Page"
+msgstr ""
+
+#. Name of the template
+msgid "Front Page"
+msgstr ""
+
+#. Name of the template
+msgid "No Sidebar Page"
+msgstr ""
+
+#. Name of the theme
+msgid "trex"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"trex is a minimal, responsive Magazine and eCommerce theme with support for "
+"the WooCommerce eCommerce plugin. You can build your individual Magazine-"
+"style front page using trex's custom widgets or sell your products in a "
+"clean and elegant way."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.elmastudio.de/en/themes/trex/"
+msgstr ""
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.elmastudio.de/en/"
+msgstr ""
+
+msgid ""
+"<strong>%s</strong> supports automatic updates using WordPress' update "
+"mechanism. To use this feature you need to activate the theme using your "
+"Product Key, which can be found in your Elmastudio account dashboard. The "
+"theme stays fully functional without activation and still can be updated "
+"manually. %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+
+msgid " Activation"
+msgstr ""
+
+msgid " Product Key Activation"
+msgstr ""
+
+msgid "Product Key Activation"
+msgstr ""
+
+msgid "Product Key Deactivation"
+msgstr ""
+
+msgid "Product Key"
+msgstr ""
+
+msgid "Product ID"
+msgstr ""
+
+msgid "Product Key Status"
+msgstr ""
+
+msgid "Deactivate Product Key"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Activated"
+msgstr ""
+
+msgid "Deactivated"
+msgstr ""
+
+msgid ""
+"Connection failed to the Elmastudio server. Try again later. There may be a "
+"problem on your server preventing outgoing requests."
+msgstr ""
+
+msgid "Product Key deactivated."
+msgstr ""
+
+msgid ""
+"The Product Key could not be deactivated. Use the Product Key Deactivation "
+"tab to manually deactivate the Product Key before activating a new Product "
+"Key."
+msgstr ""
+
+msgid "Deactivates an Product Key so it can be used on another blog."
+msgstr ""
+
+msgid "%s activated."
+msgstr ""

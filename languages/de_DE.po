@@ -1,0 +1,1022 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Weta v1.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-28 20:49+0000\n"
+"PO-Revision-Date: 2019-12-28 20:51+0000\n"
+"Last-Translator: admin <marc@jandt.net>\n"
+"Language-Team: Deutsch\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Language: \n"
+"X-Poedit-Country: \n"
+"X-Poedit-KeywordsList: _:1;gettext:1;dgettext:2;ngettext:1,2;dngettext:2,3;"
+"__:1;_e:1;_c:1;_n:1,2;_n_noop:1,2;_nc:1,2;__ngettext:1,2;__ngettext_noop:1,2;"
+"_x:1,2c;_ex:1,2c;_nx:1,2,4c;_nx_noop:1,2,3c;_n_js:1,2;_nx_js:1,2,3c;"
+"esc_attr__:1;esc_html__:1;esc_attr_e:1;esc_html_e:1;esc_attr_x:1,2c;"
+"esc_html_x:1,2c;comments_number_link:2,3;t:1;st:1;trans:1;transChoice:1,2\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes\n"
+"X-Loco-Target-Locale: de_DE\n"
+"X-Loco-Version: 2.3.1; wp-5.2.5"
+
+#: functions.php:44
+msgid "small"
+msgstr "klein"
+
+#: functions.php:45
+msgid "S"
+msgstr ""
+
+#: functions.php:50
+msgid "regular"
+msgstr "regular"
+
+#: functions.php:51
+msgid "M"
+msgstr ""
+
+#: functions.php:56
+msgid "large"
+msgstr "groß"
+
+#: functions.php:57
+msgid "L"
+msgstr ""
+
+#: functions.php:62
+msgid "larger"
+msgstr "größer"
+
+#: functions.php:63
+msgid "XL"
+msgstr ""
+
+#: functions.php:83
+msgid "Primary menu"
+msgstr "Haupt Menü"
+
+#: functions.php:84
+msgid "Header Top menu"
+msgstr "Header Top Menü"
+
+#: functions.php:85
+msgid "Header Social menu"
+msgstr "Header Social Menü"
+
+#: functions.php:86
+msgid "Footer Social menu"
+msgstr "Footer Social Menü"
+
+#. If there are characters in your language that are not
+#. supported by Source Sans Pro translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:158
+msgctxt "Source Sans Pro: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:197
+msgid "expand child menu"
+msgstr ""
+
+#: functions.php:198
+msgid "collapse child menu"
+msgstr ""
+
+#: functions.php:315 content.php:49
+msgid "Read More"
+msgstr "Weiterlesen"
+
+#: functions.php:412
+#, php-format
+msgid "%1$s"
+msgstr "%1$s"
+
+#: functions.php:416
+msgid " Edit"
+msgstr "bearbeiten"
+
+#: functions.php:423
+msgid "Your comment is awaiting moderation."
+msgstr "Dein Kommentar befindet sich in Moderation."
+
+#: functions.php:427
+msgid "Reply"
+msgstr "Antworten"
+
+#: functions.php:438
+msgid "Pingback:"
+msgstr "Pingback: "
+
+#: functions.php:454
+msgid "Blog - Sidebar"
+msgstr "Blog - Sidebar"
+
+#: functions.php:456
+msgid ""
+"Widgets appear in a right-aligned sidebar on the default blog and on single "
+"posts."
+msgstr ""
+"Widgets erscheinen in einer rechtsbündigen Sidebar im Standard-Blog und auf "
+"Einzel-Artikeln."
+
+#: functions.php:464
+msgid "Front Page - FullWidth Top"
+msgstr "Startseite - Full Width (oben)"
+
+#: functions.php:466
+msgid ""
+"Widgets appear in a single-column widget area on the top of the Front Page."
+msgstr ""
+"Widgets erscheinen in einem 1-spaltigen Bereich ganz oben auf der Startseite."
+
+#: functions.php:474
+msgid "Front Page - Content 1"
+msgstr "Startseite - Content 1"
+
+#: functions.php:476
+msgid ""
+"Widgets appear left of Sidebar 1 and below the Full Width Top widget area."
+msgstr ""
+"Widgets erscheinen links von Sidebar 1 und unterhalb des Full Width (oben) "
+"Widgetbereichs."
+
+#: functions.php:484
+msgid "Front Page - Sidebar 1"
+msgstr "Startseite - Sidebar 1"
+
+#: functions.php:486
+msgid ""
+"Widgets appear in a right-aligned sidebar area next to the Content 1 widget "
+"area."
+msgstr ""
+"Widgets erscheinen in einer rechts-bündigen Sidebar neben dem Content 1 "
+"Widgetbereich."
+
+#: functions.php:494
+msgid "Front Page - Full Width Center"
+msgstr "Startseite - Full Width (mittig)"
+
+#: functions.php:496
+msgid ""
+"Widgets will appear in a single-column widget area below the Content 1 and "
+"Sidebar 1 widget areas."
+msgstr ""
+"Widgets erscheinen in einem 1-spaltigen Widgetbereich unterhalb von Content "
+"1 und Sidebar 1."
+
+#: functions.php:504
+msgid "Front Page - Sidebar 2"
+msgstr "Startseite - Sidebar 2"
+
+#: functions.php:506
+msgid ""
+"Widgets appear in a left-aligned sidebar area next to the Content 2 widget "
+"area."
+msgstr ""
+"Widgets erscheinen in einer links-bündigen Sidebar neben dem Content 1 "
+"Widgetbereich."
+
+#: functions.php:514
+msgid "Front Page - Content 2"
+msgstr "Startseite - Content 2"
+
+#: functions.php:516
+msgid ""
+"Widgets appear right to Sidebar 2 and below the Full Width Center widget "
+"area."
+msgstr ""
+"Widgets erscheinen rechts von Sidebar 2 und unterhalb des Full Width (mittig)"
+" Widgetbereichs."
+
+#: functions.php:524
+msgid "Front Page - Full Width Bottom"
+msgstr "Startseite - Full Width (unten)"
+
+#: functions.php:526
+msgid ""
+"Widgets will appear in a single-column widget area at the bottom of your "
+"Front Page above the footer."
+msgstr ""
+"Widgets erscheinen in einem 1-spaltigen Widgetbereich unten auf der "
+"Startseite und oberhalb des Footers."
+
+#: functions.php:534
+msgid "Footer - 1"
+msgstr "Footer - 1"
+
+#: functions.php:536
+msgid "Widgets will appear in the 1. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im ersten Widgetbereich des fünfspaltigen Footers."
+
+#: functions.php:544
+msgid "Footer - 2"
+msgstr "Footer - 2"
+
+#: functions.php:546
+msgid "Widgets will appear in the 2. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im zweiten Widgetbereich des fünfspaltigen Footers."
+
+#: functions.php:554
+msgid "Footer - 3"
+msgstr "Footer - 3"
+
+#: functions.php:556
+msgid "Widgets will appear in the 3. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im dritten Widgetbereich des fünfspaltigen Footers."
+
+#: functions.php:564
+msgid "Footer - 4"
+msgstr "Footer - 4"
+
+#: functions.php:566
+msgid "Widgets will appear in the 4. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im vierten Widgetbereich des fünfspaltigen Footers."
+
+#: functions.php:574
+msgid "Footer - 5"
+msgstr "Footer - 5"
+
+#: functions.php:576
+msgid "Widgets will appear in the 5. widget area of the 5-column footer."
+msgstr "Widgets erscheinen im fünften Widgetbereich des fünfspaltigen Footers."
+
+#: functions.php:584
+msgid "Blog Subscribe Widget Area"
+msgstr "Blog Subscribe Widgetbereich"
+
+#: functions.php:586
+msgid ""
+"Widget area for the Jetpack Blog Subscriptions widget only. Subscribe widget "
+"will appear with in a lightbox. (The Subscribe Now text can be customized in "
+"the Customizer under Theme Options.)"
+msgstr ""
+"Widgetbereich ausschließlich für das Jetpack Blog Subscription Widget. Das "
+"Subscribe Widget wird in einer Lightbox angezeigt. (Der \"Jetzt anmelden\" "
+"Button can unser Design / Anpassen geändert werden.)"
+
+#: functions.php:610
+msgid "<span>Previous Posts</span>"
+msgstr "<span>Vorherige Artikel</span>"
+
+#: functions.php:611
+msgid "<span>Next Posts</span>"
+msgstr "<span>Nächste Artikel</span>"
+
+#: functions.php:636
+msgid "<span class=\"meta-nav\">Previous Post</span>%title"
+msgstr "<span class=\"meta-nav\">Vorheriger Artikel</span>%title"
+
+#: functions.php:637
+msgid "<span class=\"meta-nav\">Next Post</span>%title"
+msgstr "<span class=\"meta-nav\">Nächster Artikel</span>%title"
+
+#: functions.php:733 functions.php:739 header.php:52 header.php:70
+#: header-top-nav.php:46
+msgid "View cart"
+msgstr "Warenkorb ansehen"
+
+#: functions.php:733 functions.php:739 header.php:70 header-top-nav.php:46
+#, php-format
+msgid "Cart (%d)"
+msgstr "Warenkorb (%d)"
+
+#: content-single.php:21 content.php:22 inc/widgets.php:183 inc/widgets.php:374
+#, php-format
+msgid "by <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+msgstr "von <a href=\"%1$s\" title=\"%2$s\">%3$s</a>"
+
+#: content-single.php:23 content.php:24 inc/widgets.php:185 inc/widgets.php:376
+#, php-format
+msgid "All posts by %s"
+msgstr "Alle Artikel von %s"
+
+#: content-single.php:29 content.php:30 image.php:29
+msgid "Leave a comment"
+msgstr "Schreibe einen Kommentar"
+
+#: content-single.php:29 content.php:30 image.php:29
+msgid "comment 1"
+msgstr "Kommentare 1"
+
+#: content-single.php:29 content.php:30 image.php:29
+msgid "comments %"
+msgstr "Kommentare %"
+
+#: content-single.php:32 content.php:33 image.php:32 inc/widgets.php:196
+#: inc/widgets.php:387
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: content-single.php:47 content-page.php:19 content.php:52
+msgid "Pages:"
+msgstr "Seiten:"
+
+#: content-single.php:55 content.php:61
+msgid "Filed under "
+msgstr "Kategorie "
+
+#: content-single.php:59 content.php:65
+msgid "Tagged "
+msgstr "Schlagwörter "
+
+#: 404.php:18
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ups! Diese Seite konnte nicht gefunden werden."
+
+#: 404.php:22
+msgid ""
+"It looks like nothing was found at this location. Maybe try another search "
+"term?"
+msgstr ""
+"Es scheint, als kann an dieser Stelle nichts gefunden werden. Vielleicht "
+"hilft die Suche mit einem anderen Suchbegriff?"
+
+#: content-none.php:13 search.php:33
+msgid "Nothing Found"
+msgstr "Keine Einträge gefunden"
+
+#: content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+"Bist du bereit, deinen ersten Artikel zu veröffentlichen? \n"
+"<a href=\"%1$s\">Dann leg los</a>."
+
+#: content-none.php:24 search.php:37
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Entschuldigung, es scheint kein Suchergebnis für deine Anfrage zu geben. "
+"Bitte versuche es noch einmal mit einem alternativen Suchbegriff."
+
+#: content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Deine Suche hat kein Ergebnis erzielt. Vielleicht hilft eine neue "
+"Sucheingabe."
+
+#: comments.php:25
+#, php-format
+msgid "1 Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] "1 Kommentare"
+msgstr[1] "%1$s Kommentare"
+
+#: comments.php:38
+msgid "Older Comments"
+msgstr "Ältere Kommentare"
+
+#: comments.php:39
+msgid "Newer Comments"
+msgstr "Neuere Kommentare"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "Kommentare sind geschlossen."
+
+#: content-page.php:25
+msgid "Edit page"
+msgstr " Seite bearbeiten"
+
+#: content.php:39
+#, php-format
+msgid "Permalink to %s"
+msgstr "Permalink zu %s"
+
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Suchergebnisse für:  %s"
+
+#: header.php:50
+msgid "Open"
+msgstr "Öffnen"
+
+#: header.php:52
+#, php-format
+msgid "(%d)"
+msgstr "(%d)"
+
+#: header.php:54 header.php:78 footer.php:54
+msgid "Close"
+msgstr "Schließen"
+
+#: footer.php:33
+msgid "Powered by"
+msgstr ""
+
+#: footer.php:33
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: footer.php:33
+msgid "WordPress"
+msgstr ""
+
+#: footer.php:34
+#, php-format
+msgid "Theme: %1$s by %2$s."
+msgstr "Theme: %1$s von %2$s."
+
+#: footer.php:44
+msgid "Subscribe Now"
+msgstr "Jetzt anmelden"
+
+#: footer.php:52
+msgid "No Thanks"
+msgstr "Nein Danke"
+
+#: footer.php:59
+msgid "Top"
+msgstr "Nach Oben"
+
+#: author-bio.php:19
+msgid "Author"
+msgstr "Autor"
+
+#: author.php:25
+msgid "All posts by "
+msgstr "Alle Artikel von "
+
+#: header-top-nav.php:41
+msgid "Account"
+msgstr "Konto"
+
+#: header-top-nav.php:44
+msgid "Login / Register"
+msgstr "Login / Anmelden"
+
+#: image.php:59
+msgid "Next Image"
+msgstr "Nächstes Bild"
+
+#: image.php:60
+msgid "Previous Image"
+msgstr "Vorheriges Bild"
+
+#: searchform.php:12
+msgid "Search"
+msgstr "Suche"
+
+#: searchform.php:13
+msgctxt "placeholder"
+msgid "Search&hellip;"
+msgstr "Suche&hellip;"
+
+#: searchform.php:14
+msgctxt "submit button"
+msgid "Search"
+msgstr "Suche"
+
+#: inc/widgets.php:18
+msgid "Weta: Recent Posts"
+msgstr "Weta: Neueste Artikel"
+
+#: inc/widgets.php:20
+msgid ""
+"Show a number of recent posts that can be filtered by categories on the Weta "
+"Front page."
+msgstr ""
+"Eine Anzahl von Beiträgen auf der Weta Startseite, die nach Kategorien "
+"gefiltert werden können."
+
+#: inc/widgets.php:193 inc/widgets.php:384
+msgid "Comments 0"
+msgstr "Kommentare 0"
+
+#: inc/widgets.php:193 inc/widgets.php:384
+msgid "Comment 1"
+msgstr "Kommentar 1"
+
+#: inc/widgets.php:193 inc/widgets.php:384
+msgid "Comments %"
+msgstr "Kommentare %"
+
+#: inc/widgets.php:247 inc/widgets.php:426 inc/widgets.php:534
+#: inc/widgets.php:646 inc/widgets.php:756
+msgid "Title:"
+msgstr "Titel:"
+
+#: inc/widgets.php:250
+msgid "Post Layout:"
+msgstr "Beitrags-Layout:"
+
+#: inc/widgets.php:252
+msgid "1-column text overlay"
+msgstr "1-spaltig mit Text Overlay"
+
+#: inc/widgets.php:253
+msgid "1-column text right"
+msgstr "1-spaltig Text rechts "
+
+#: inc/widgets.php:254
+msgid "2-columns"
+msgstr "2-spaltig"
+
+#: inc/widgets.php:255
+msgid "2-columns text right"
+msgstr "2-spaltig Text rechts"
+
+#: inc/widgets.php:256
+msgid "3-columns"
+msgstr "3-spaltig"
+
+#: inc/widgets.php:257
+msgid "3-columns text right"
+msgstr "3-spaltig Text rechts"
+
+#: inc/widgets.php:258
+msgid "4-columns"
+msgstr "4-spaltig"
+
+#: inc/widgets.php:259
+msgid "4-columns text right"
+msgstr "4-spaltig Text rechts"
+
+#: inc/widgets.php:263
+msgid "Thumbnail Format:"
+msgstr "Beitragsbild Format:"
+
+#: inc/widgets.php:265
+msgid "Landscape"
+msgstr "Querformat"
+
+#: inc/widgets.php:266
+msgid "Portrait"
+msgstr "Hochformat"
+
+#: inc/widgets.php:267
+msgid "Square"
+msgstr "Quadratisch"
+
+#: inc/widgets.php:268
+msgid "default (no cropping)"
+msgstr "standard (keinen Beschnitt)"
+
+#: inc/widgets.php:272
+msgid "Number of posts:"
+msgstr "Anzahl der Beiträge"
+
+#: inc/widgets.php:275 inc/widgets.php:436
+msgid ""
+"Show only posts with the following category slug (separate multiple category "
+"slugs by comma)"
+msgstr ""
+"Zeige nur Beiträge mit der Kategorie-Titelform (teile mehrere Kategorien mit "
+"Komma):"
+
+#: inc/widgets.php:278
+msgid "Order posts by:"
+msgstr "Sortiere Beiträge nach:"
+
+#: inc/widgets.php:280 inc/widgets.php:431
+msgid "publish date (newest first)"
+msgstr "Datum der Veröffentlichung (neueste zuerst)"
+
+#: inc/widgets.php:281 inc/widgets.php:432
+msgid "random"
+msgstr "zufällig"
+
+#: inc/widgets.php:286
+msgid "Hide excerpt text"
+msgstr "Verberge Exzerpt-Texte"
+
+#: inc/widgets.php:290
+msgid "Hide categories"
+msgstr "Verberge Kategorien"
+
+#: inc/widgets.php:294 inc/widgets.php:457
+msgid "Hide publish date"
+msgstr "Verberge Datum"
+
+#: inc/widgets.php:298 inc/widgets.php:461
+msgid "Hide post author"
+msgstr "Verberge Beitrags-Autor"
+
+#: inc/widgets.php:302 inc/widgets.php:465
+msgid "Hide number of comments"
+msgstr "Verberge Anzahl der Kommentare"
+
+#: inc/widgets.php:319
+msgid "Weta: Numbered Recent Posts"
+msgstr "Weta: Nummerierte neueste Artikel"
+
+#: inc/widgets.php:321
+msgid ""
+"Show a number of numbered recent posts (without thumbnails and excerpt text) "
+"that can be filtered by categories."
+msgstr ""
+"Eine Anzahl von nummerierten Beiträgen (ohne Beitragsbilder und Exzerpt-"
+"Texte), die nach Kategorien gefiltert werden können."
+
+#: inc/widgets.php:429
+msgid "Order by:"
+msgstr "Sortiere nach:"
+
+#: inc/widgets.php:439
+msgid "Number of Posts:"
+msgstr "Anzahl der Beiträge:"
+
+#: inc/widgets.php:441 inc/widgets.php:761
+msgid "1"
+msgstr ""
+
+#: inc/widgets.php:442 inc/widgets.php:762
+msgid "2"
+msgstr ""
+
+#: inc/widgets.php:443 inc/widgets.php:763
+msgid "3"
+msgstr ""
+
+#: inc/widgets.php:444 inc/widgets.php:764
+msgid "4"
+msgstr ""
+
+#: inc/widgets.php:445 inc/widgets.php:765
+msgid "5"
+msgstr ""
+
+#: inc/widgets.php:446 inc/widgets.php:766
+msgid "6"
+msgstr ""
+
+#: inc/widgets.php:447 inc/widgets.php:767
+msgid "7"
+msgstr ""
+
+#: inc/widgets.php:448 inc/widgets.php:768
+msgid "8"
+msgstr ""
+
+#: inc/widgets.php:449 inc/widgets.php:769
+msgid "9"
+msgstr ""
+
+#: inc/widgets.php:450 inc/widgets.php:770
+msgid "10"
+msgstr ""
+
+#: inc/widgets.php:451
+msgid "11"
+msgstr ""
+
+#: inc/widgets.php:452
+msgid "12"
+msgstr ""
+
+#: inc/widgets.php:482
+msgid "Weta: Quote"
+msgstr "Weta: Zitat"
+
+#: inc/widgets.php:484
+msgid "Show a big quote or text slogan."
+msgstr "Zeige ein Zitat oder einen Slogan-Text."
+
+#: inc/widgets.php:539
+msgid "Quote Text:"
+msgstr "Zitat Text:"
+
+#: inc/widgets.php:544
+msgid "Quote Author (optional):"
+msgstr "Zitat Autor (optional):"
+
+#: inc/widgets.php:562
+msgid "Weta: Authors"
+msgstr "Weta: Autoren"
+
+#: inc/widgets.php:564
+msgid "A list of blog authors with gravatars."
+msgstr "Zeige eine Liste von Blog-Autoren mit Gravatarbild."
+
+#: inc/widgets.php:613
+msgid "All Posts by"
+msgstr "Alle Beiträge von"
+
+#: inc/widgets.php:650
+msgid "Number of authors to show:"
+msgstr "Anzahl der Autoren:"
+
+#: inc/widgets.php:653
+msgid "Gravatar image format:"
+msgstr "Gravatar Bild-Format:"
+
+#: inc/widgets.php:655
+msgid "square"
+msgstr "quadrat"
+
+#: inc/widgets.php:656
+msgid "circle"
+msgstr "kreis"
+
+#: inc/widgets.php:674
+msgid "Weta: Post Slider"
+msgstr "Weta: Beitrags Slider"
+
+#: inc/widgets.php:676
+msgid "Show (up to 10) posts in a featured slider."
+msgstr "Zeige (bis zu 10) Beiträge in einem Featured Slider."
+
+#: inc/widgets.php:759
+msgid "Number of Posts (max 10):"
+msgstr "Anzahl der Beiträge (max 10):"
+
+#: inc/widgets.php:774
+msgid ""
+"Show only posts with the following tag (separate multiple tags by comma)"
+msgstr ""
+"Zeige nur Beiträge mit dem Schlagwort (teile mehrere Schlagwörter mit Komma):"
+
+#: inc/customizer.php:16
+msgid "Site Title Color"
+msgstr "Webseiten Titel Farbe"
+
+#: inc/customizer.php:18
+msgid "Logo"
+msgstr "Logo"
+
+#: inc/customizer.php:22
+msgid "Theme Options"
+msgstr "Theme Optionen"
+
+#: inc/customizer.php:44
+msgid "Link Color"
+msgstr "Link Farbe"
+
+#: inc/customizer.php:57
+msgid "Header Background Color"
+msgstr "Header Hintergrund Farbe"
+
+#: inc/customizer.php:70
+msgid "Footer Background Color"
+msgstr "Footer Hintergrund Farbe"
+
+#: inc/customizer.php:83
+msgid "Author Widget Background Color"
+msgstr "Autoren Widget Hintergrund Farbe"
+
+#: inc/customizer.php:96
+msgid "Quote Widget Background Color"
+msgstr "Zitat Widget Hintergrund Farbe"
+
+#: inc/customizer.php:109
+msgid "Numbered Recent Posts Widget Background Color"
+msgstr "Nummerierte Neueste Artikel Widget Hintergrund Farbe"
+
+#: inc/customizer.php:121
+msgid "Fixed-position main menu"
+msgstr "Hauptmenü feststehend"
+
+#: inc/customizer.php:122
+msgid "(visible on wider screens only)"
+msgstr "(nur auf breiten Bildschirmen sichtbar)"
+
+#: inc/customizer.php:134
+msgid "Show header search form"
+msgstr "Suche im Header anzeigen"
+
+#: inc/customizer.php:146
+msgid "Show shop elements in header"
+msgstr "Shop-Elemente im Header anzeigen"
+
+#: inc/customizer.php:147
+msgid "(use only, if WooCommerce plugin is active)"
+msgstr "(nur nutzen, wenn das WooCommerce Plugin aktiviert ist)"
+
+#: inc/customizer.php:159
+msgid "Hide theme border lines"
+msgstr "hellgraue Linien verbergen"
+
+#: inc/customizer.php:160
+msgid "Hide all light grey border lines of the theme design."
+msgstr "Alle hellgrauen Linien im Theme Design verbergen."
+
+#: inc/customizer.php:172
+msgid "Hide Featured Image on single posts"
+msgstr "Beitragsbilder auf Beitrags-Einzelseite verbergen"
+
+#: inc/customizer.php:184
+msgid "Automatic archive excerpts"
+msgstr "automatische Archiv-Exzerpte"
+
+#: inc/customizer.php:185
+msgid "(Show automatic excerpts on archives and search results.)"
+msgstr ""
+"(Zeige automatisch gekürzte Beitragstexte im Archiv und bei Suchergebnissen.)"
+
+#: inc/customizer.php:197
+msgid "Automatic blog excerpts"
+msgstr "automatische Blog-Exzerpte"
+
+#: inc/customizer.php:198
+msgid "(Show automatic excerpts on default blog.)"
+msgstr "(Zeige automatisch gekürzte Beitragstexte auf Blogseiten.)"
+
+#: inc/customizer.php:210
+msgid "Read More links on Front page"
+msgstr "Weiterlesen-Link auf Startseite"
+
+#: inc/customizer.php:211
+msgid "(Show \"Read More\" links on Front page.)"
+msgstr "(Zeige einen Weiterlesen-Link bei Beiträgen auf der Weta Startseite.)"
+
+#: inc/customizer.php:223
+msgid "Use Custom Jetpack share buttons"
+msgstr "Nutze Weta-eigene Jetpack Teilen-Buttons"
+
+#: inc/customizer.php:224
+msgid ""
+"(Activate to use custom Weta share buttons in the Jetpack sharing feature "
+"(\"Icons only\" has to be selected)."
+msgstr ""
+"(Aktiviere diese Option, um Jetpack Teilen-Buttons im Theme-Design zu nutzen "
+"(\"Icons only\" muss in den Jetpack Teilen-Optionen ausgewählt sein)."
+
+#: inc/customizer.php:236
+msgid "Small logo image"
+msgstr "Kleines Logo-Bild"
+
+#: inc/customizer.php:237
+msgid ""
+"Show a small logo image in the main nav. The image height must be 34 pixels "
+"and the image width not bigger than 100px."
+msgstr ""
+"Zeige ein kleines Logo in der Hauptnavigation. Das Bild muss die Höhe von 34 "
+"Pixel haben und darf nicht breiter sein als 100px."
+
+#: inc/customizer.php:249
+msgid "Footer credit text"
+msgstr "Footer Credit Text"
+
+#: inc/customizer.php:250
+msgid "Customize the footer credit text. (HTML is allowed)"
+msgstr "Passe den Footer Credittext an (HTML ist erlaubt)."
+
+#: inc/customizer.php:262
+msgid "Lightbox button text"
+msgstr "Lightbox Button Text"
+
+#: inc/customizer.php:263
+msgid "Customize the lightbox button text (default text is \"Subscribe Now\")."
+msgstr ""
+"(Passe den Text des Lightbox-Buttons an (standardmäßig \"Jetzt anmelden\")."
+
+#: inc/customizer.php:275
+msgid "Lightbox close text"
+msgstr "Lightbox Schliessen Text"
+
+#: inc/customizer.php:276
+msgid ""
+"Customize the lightbox close button text (default text is \"No Thanks\")."
+msgstr "Passe den Text \"Nein Danke\" in der Lightbox an."
+
+#: inc/demo-installer.php:20
+msgid ""
+"Make sure you have the WooCommerce plugin installed, before importing this "
+"demo!"
+msgstr ""
+"Bitte stelle sicher, dass du das WooCommerce WordPress Plugin installiert "
+"hast, bevor du diese Demo installierst!"
+
+#. Name of the template
+msgid "Full Width Page"
+msgstr "Fullwidth Seite"
+
+#. Name of the template
+msgid "Checkout Page"
+msgstr "Kassenseite"
+
+#. Name of the template
+msgid "Account Page"
+msgstr "Kontoseite"
+
+#. Name of the template
+msgid "Cart Page"
+msgstr "Warenkorbseite"
+
+#. Name of the template
+msgid "Front Page"
+msgstr "Startseite"
+
+#. Name of the template
+msgid "No Sidebar Page"
+msgstr "Keine Sidebar Seite"
+
+#. Name of the theme
+msgid "Weta"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Weta is a minimal, responsive Magazine and eCommerce theme with support for "
+"the WooCommerce eCommerce plugin. You can build your individual Magazine-"
+"style front page using Weta's custom widgets or sell your products in a "
+"clean and elegant way."
+msgstr ""
+
+#. URI of the theme
+msgid "https://www.elmastudio.de/en/themes/weta/"
+msgstr "https://www.elmastudio.de/wordpress-themes/weta/"
+
+#. Author of the theme
+msgid "Elmastudio"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://www.elmastudio.de/en/"
+msgstr "https://www.elmastudio.de/"
+
+msgid ""
+"<strong>%s</strong> supports automatic updates using WordPress' update "
+"mechanism. To use this feature you need to activate the theme using your "
+"Product Key, which can be found in your Elmastudio account dashboard. The "
+"theme stays fully functional without activation and still can be updated "
+"manually. %sClick here%s to activate <strong>%s</strong>."
+msgstr ""
+"<strong>%s</strong> unterstützt automatische Updates über den "
+"Aktualisierungsmechanismus von WordPress. Dazu muss das Theme mit einem "
+"Produktschlüssel aktiviert werden, den du in deinem Elmastudio-Konto findest."
+" Das Theme funktioniert uneingeschränkt auch ohne diese Aktivierung und "
+"lässt sich jederzeit manuell aktualisieren. %sKlicke hier%s um <strong>"
+"%s</strong> zu aktivieren."
+
+msgid ""
+"<b>Warning!</b> You're blocking external requests which means you won't be "
+"able to get %s updates. Please add %s to %s."
+msgstr ""
+"<strong>Achtung!</strong> Du blockierst externe Anfragen, so dass keine %s-"
+"Updates geladen werden können. Bitte füge %s zu deinen %s hinzu."
+
+msgid " Activation"
+msgstr "-Aktivierung"
+
+msgid " Product Key Activation"
+msgstr "-Produktschlüssel-Aktivierung"
+
+msgid "Product Key Activation"
+msgstr "Produktschlüssel-Aktivierung"
+
+msgid "Product Key Deactivation"
+msgstr "Produktschlüssel-Deaktivierung"
+
+msgid "Product Key"
+msgstr "Produktschlüssel"
+
+msgid "Product ID"
+msgstr "Produkt-ID"
+
+msgid "Product Key Status"
+msgstr "Produktschlüssel-Status"
+
+msgid "Deactivate Product Key"
+msgstr "Deaktiviere Produktschlüssel"
+
+msgid "Save Changes"
+msgstr "Änderungen speichern"
+
+msgid "Activated"
+msgstr "Aktiviert"
+
+msgid "Deactivated"
+msgstr "Deaktiviert"
+
+msgid ""
+"Connection failed to the Elmastudio server. Try again later. There may be a "
+"problem on your server preventing outgoing requests."
+msgstr ""
+"Die Verbindung zum Elmastudio-Server konnte nicht hergestellt werden. Bitte "
+"versuche es später erneut. Auf deinem Server könnte es ein Problem geben, "
+"welches ausgehende Verbindungen einschränkt."
+
+msgid "Product Key deactivated."
+msgstr "Produktschlüssel deaktiviert."
+
+msgid ""
+"The Product Key could not be deactivated. Use the Product Key Deactivation "
+"tab to manually deactivate the Product Key before activating a new Product "
+"Key."
+msgstr ""
+"Der Produktschlüssel konnte nicht deaktiviert werden. Klicke auf "
+"Produktschlüssel-Deaktivierung und deaktiviere den Produktschlüssel manuell "
+"bevor du den neuen Produktschlüssel aktivierst."
+
+msgid "Deactivates an Product Key so it can be used on another blog."
+msgstr ""
+"Deaktiviert einen Produktschlüssel, so dass dieser auf einer anderen Seite "
+"verwendet werden kann."
+
+msgid "%s activated."
+msgstr "%s aktiviert."
